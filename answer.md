@@ -18,8 +18,8 @@
 2. 使用git clone將倉庫的資料夾在vs code開啟使用。
 3. 開始依照老師給的PDF執行作業書寫。
 4. 以下使用git branch指令建立**新分支**、在使用git checkout切換分支進行編輯、最後使用git merge合併分支。
-![連結](/img/112-1HW1.png)
-5. 使用git add、git commit、git push等指令推至倉庫及完成作業。
+![112-1HW1](/img/112-1HW1.png "112-1HW1title")
+1. 使用git add、git commit、git push等指令推至倉庫及完成作業。
 ## 個人認為完成作業須具備觀念
 
 開始寫說明，需要說明本次作業個人覺得需學會那些觀念，亦可作為學習筆記使用 (需寫成文章，需最少50字，並且文內不得有你、我、他三種文字)<br>
